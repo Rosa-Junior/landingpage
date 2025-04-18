@@ -4,9 +4,7 @@ Repositório para a sistematização da matéria de PDW do curso de Análise e D
 
 # <h1 align="center"> Descrição do projeto: </h1>
 
-Landing Page estática, apresntando as principais informações de uma clínica médica.
-
-<h1 align="center"> :construction: Projeto em construção! :construction: </h1>
+Landing Page estática, apresentando as principais informações de uma clínica médica (serviços, profissionais etc).
 
 # :file_folder: Acesso ao projeto
 
