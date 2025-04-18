@@ -37,7 +37,7 @@ section {
 
 .card img, .membro img {
     width: 100%;
-    height: 180px;
+    height: 320px;
     object-fit: cover;
     border-radius: 6px;
 }
@@ -68,7 +68,7 @@ button:hover {
 }
 
 footer {
-    background: #1b5e20;
+    background: #464ca0;
     color: white;
     text-align: center;
     padding: 1em;
