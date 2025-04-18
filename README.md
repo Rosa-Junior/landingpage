@@ -13,12 +13,12 @@ Landing Page estática, apresentando as principais informações do Centro Clín
 
 # :floppy_disk: Execução do projeto
 
-**A página pode ser executada em qualquer navegador de internet**
+**-A página pode ser executada em qualquer navegador de internet**
 
 **[Download Index](https://drive.google.com/file/d/1x7coo859deFS7DAcnc2wNfSUkzfAUlZs/view?usp=sharing)** 
 
 # :computer: Tecnologias e técnicas utilizadas:
 
-**HTML**
+**-HTML**
 
-**CSS**
+**-CSS**
