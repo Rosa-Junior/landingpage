@@ -9,15 +9,38 @@ body {
 header {
     background-color: #464ca0;
     color: white;
-    text-align: center;
-    max-width: 10px;
+    max-width: 1500px;
     padding: 1em;
     border-radius: 4px;
 }
 
 header2 {
+    color: #c53131;
     text-align: center; 
 }
+
+.header-flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #464ca0;
+    color: white;
+    padding: 2em 1em;
+    text-align: center;
+}
+
+.logo-titulo {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.logo {
+    width: 300px;
+    height: auto;
+}
+
 
 section {
     padding: 2em 1em;
@@ -61,7 +84,7 @@ section {
 
 button {
     padding: 12px;
-    background-color: #12be99;
+    background-color: #c53131;
     color: white;
     border: none;
     cursor: pointer;
